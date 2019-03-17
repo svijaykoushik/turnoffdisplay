@@ -1,6 +1,6 @@
-# Turnoff display (ToD)
+# Turn off display (ToD)
 
-![Turnoff display](./images/tod_logo.png "Turnoff display")
+![Turn off display](./images/tod_logo.png "Turn off display")
 
 ## What is Turnoff Display
 
@@ -10,7 +10,13 @@ Primarily developed for laptops, this applet can be used to turn the monitor off
 
 When your computer is not actively in use but is performing background tasks, shut off the monitor to conserve energy. Go green with turn off display.
 
-![GitHub](https://img.shields.io/github/license/svijaykoushik/turnoffdisplay.svg?label=License&style=flat-square) ![GitHub release](https://img.shields.io/github/release/svijaykoushik/turnoffdisplay.svg?style=flat-square) ![Download Turn off display](https://img.shields.io/sourceforge/dt/turnoffdisplay.svg?style=flat-square)
+![GitHub](https://img.shields.io/github/license/svijaykoushik/turnoffdisplay.svg?label=License&style=flat-square) ![GitHub release](https://img.shields.io/github/release/svijaykoushik/turnoffdisplay.svg?style=flat-square) [![Download Turn off display](https://img.shields.io/sourceforge/dt/turnoffdisplay.svg?style=flat-square)](#download-mirrors)
+
+## Contents
+
+* [Screenshots](#screenshots)
+* [Recommended requirements](#recommended-requirements)
+* [Download Links (Mirrors)](#download-mirrors)
 
 ## Screenshots
 
@@ -41,6 +47,10 @@ When your computer is not actively in use but is performing background tasks, sh
 
 ## Download Mirrors
 
+GitHub
+
+[![Download now](./images/github-download-button.png "Get it from GitHub")](https://github.com/svijaykoushik/turnoffdisplay/releases/download/1.0.0/Turn.off.display.installer.exe) 
+
 Source forge
 
 [![Download Turn off display](https://a.fsdn.com/con/app/sf-download-button "Get it from SourceForge.net")](https://sourceforge.net/projects/turnoffdisplay/files/latest/download)
@@ -52,3 +62,6 @@ CNET
 Software Informer
 
 [![Get it from Software.informer.com](./images/software_informer_download.jpg "Get it from Software.informer.com")](https://turn-off-display1.software.informer.com/download/)
+
+## Hosts
+[![Download Turn off display](https://sourceforge.net/sflogo.php?type=16&group_id=2303008)](https://sourceforge.net/p/turnoffdisplay/) [![Turn off display](./images/GitHub_Logo.png)](https://github.com/svijaykoushik/turnoffdisplay)
