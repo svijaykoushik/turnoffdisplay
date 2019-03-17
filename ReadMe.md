@@ -10,6 +10,8 @@ Primarily developed for laptops, this applet can be used to turn the monitor off
 
 When your computer is not actively in use but is performing background tasks, shut off the monitor to conserve energy. Go green with turn off display.
 
+![GitHub](https://img.shields.io/github/license/svijaykoushik/turnoffdisplay.svg?label=License&style=flat-square) ![GitHub release](https://img.shields.io/github/release/svijaykoushik/turnoffdisplay.svg?style=flat-square) ![Download Turn off display](https://img.shields.io/sourceforge/dt/turnoffdisplay.svg?style=flat-square)
+
 ## Screenshots
 
 1.   Program directory
